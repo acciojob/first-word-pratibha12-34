@@ -5,9 +5,8 @@ function firstWord(s) {
 	return output
 	// if(s=="" || '' === s){
 	// 	return s
-	}
 	
-}
+	}
 
 // // Do not change the code below
 
